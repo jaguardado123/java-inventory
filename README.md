@@ -1,4 +1,4 @@
-# Lab 25 - GUI Apps
+# Lab 26 - GUI Apps
 
 For this lab assignment you will practice developing Java GUI applications with Maven. **Maven** is a dependency management and build tool for Java projects. We will be using Maven since it is the most popular project management tool for Java.
 
